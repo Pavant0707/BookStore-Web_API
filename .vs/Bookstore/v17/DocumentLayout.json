@@ -1,0 +1,1061 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prave\\source\\repos\\Bookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|c:\\users\\prave\\source\\repos\\bookstore\\repository\\service\\bookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\bookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\icartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\icartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\icartrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\icartrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\cartrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\cartrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\entity\\cartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\entity\\cartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\attendencerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\attendencerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\cartmodel\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\cartmodel\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\userrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\userrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\iattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\attendencebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\attendencebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\iattendencebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\iattendencebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\addressrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\addressrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\attendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\attendencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\iaddressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\iaddressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\addressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\addressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\entity\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\entity\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\orderrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\orderrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\feedbookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\feedbookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\iaddressrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iaddressrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\iuserrlcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iuserrlcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\ibookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\ibookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\ifeddbackrlcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\ifeddbackrlcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\iadimn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iadimn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\bookmodel\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\bookmodel\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\iorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\iorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\service\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\service\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\addressmodel\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\addressmodel\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\entity\\feedbackentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\entity\\feedbackentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\feedbackmodel\\updatefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\feedbackmodel\\updatefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\feedbackmodel\\feedbackmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\feedbackmodel\\feedbackmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16081414-9CAB-4C8C-BEDA-5ADE74B192FF}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\interface\\iwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\usermodel\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\usermodel\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\ibookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\ibookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\iwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\iwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\orders\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\orders\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\ifeedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\ifeedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\token\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\token\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\context\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\context\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\userbl\\feedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\userbl\\feedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\forgetpassword\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\forgetpassword\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\iuserbl\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\iuserbl\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\modellayer\\loginmodel\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D572060-6A97-4D97-BC4F-24C3B804DC6F}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\loginmodel\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\bussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53735F94-D1DF-4769-99D2-24B1963915DC}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|C:\\Users\\Prave\\source\\repos\\Bookstore\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A675781-FD39-4F3A-894A-C6F9F1CDECE4}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\CartRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\CartRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\CartRL.cs",
+              "RelativeToolTip": "Repository\\Service\\CartRL.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:33:24.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:53:47.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICartBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\ICartBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\ICartBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\ICartBL.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\ICartBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:37:06.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\CartBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\CartBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\CartBL.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\CartBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:39:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\BookController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA5wEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:55:58.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:45:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\WishlistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:46:22.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\BookRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\BookRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\BookRL.cs",
+              "RelativeToolTip": "Repository\\Service\\BookRL.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:22:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICartRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\ICartRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ICartRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\ICartRL.cs",
+              "RelativeToolTip": "Repository\\Interface\\ICartRL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:32:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\CartEntity.cs",
+              "RelativeDocumentMoniker": "Repository\\Entity\\CartEntity.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\CartEntity.cs",
+              "RelativeToolTip": "Repository\\Entity\\CartEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:03:19.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendenceRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\AttendenceRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\AttendenceRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\AttendenceRL.cs",
+              "RelativeToolTip": "Repository\\Service\\AttendenceRL.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:59:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\CartModel\\CartModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\CartModel\\CartModel.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\CartModel\\CartModel.cs",
+              "RelativeToolTip": "ModelLayer\\CartModel\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:45:46.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\UserRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\UserRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\UserRL.cs",
+              "RelativeToolTip": "Repository\\Service\\UserRL.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAswL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:37:57.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAttendence.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IAttendence.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IAttendence.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IAttendence.cs",
+              "RelativeToolTip": "Repository\\Interface\\IAttendence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:49:04.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:07:10.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddressRl.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\AddressRl.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\AddressRl.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\AddressRl.cs",
+              "RelativeToolTip": "Repository\\Service\\AddressRl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:19:35.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Program.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Program.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Program.cs",
+              "RelativeToolTip": "Bookstore\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:29:18.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAttendenceBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IAttendenceBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\IAttendenceBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IAttendenceBL.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\IAttendenceBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:09:20.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttendenceBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\AttendenceBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\AttendenceBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\AttendenceBL.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\AttendenceBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:10:28.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "attendenceController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\attendenceController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\attendenceController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\attendenceController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\attendenceController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:16:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAddressBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IAddressBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\IAddressBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IAddressBL.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\IAddressBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:57:38.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddressBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\AddressBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\AddressBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\AddressBL.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\AddressBL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:58:29.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\BookBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\BookBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\BookBL.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\BookBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:47:08.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\OrderRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\OrderRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\OrderRL.cs",
+              "RelativeToolTip": "Repository\\Service\\OrderRL.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:34:22.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FeedBookRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\FeedBookRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\FeedBookRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\FeedBookRL.cs",
+              "RelativeToolTip": "Repository\\Service\\FeedBookRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:43:22.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\Attendance.cs",
+              "RelativeDocumentMoniker": "Repository\\Entity\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\Attendance.cs",
+              "RelativeToolTip": "Repository\\Entity\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:43:56.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Attendence.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Attendence.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Attendence.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Attendence.cs",
+              "RelativeToolTip": "ModelLayer\\Attendence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:50:58.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAddressRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IAddressRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IAddressRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IAddressRL.cs",
+              "RelativeToolTip": "Repository\\Interface\\IAddressRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:18:22.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IuserRLcs.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IuserRLcs.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IuserRLcs.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IuserRLcs.cs",
+              "RelativeToolTip": "Repository\\Interface\\IuserRLcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:37:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBookRL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IBookRL.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IBookRL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IBookRL.cs",
+              "RelativeToolTip": "Repository\\Interface\\IBookRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:48:02.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFeddBackRLcs.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IFeddBackRLcs.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IFeddBackRLcs.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IFeddBackRLcs.cs",
+              "RelativeToolTip": "Repository\\Interface\\IFeddBackRLcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:42:37.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAdimn.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IAdimn.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IAdimn.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IAdimn.cs",
+              "RelativeToolTip": "Repository\\Interface\\IAdimn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:11:37.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IOrder.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IOrder.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IOrder.cs",
+              "RelativeToolTip": "Repository\\Interface\\IOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:30:56.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\BookModel\\BookModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\BookModel\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\BookModel\\BookModel.cs",
+              "RelativeToolTip": "ModelLayer\\BookModel\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:50:33.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\BookEntity.cs",
+              "RelativeDocumentMoniker": "Repository\\Entity\\BookEntity.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\BookEntity.cs",
+              "RelativeToolTip": "Repository\\Entity\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:11:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:48:59.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IOrderBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\IOrderBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IOrderBL.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\IOrderBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:17:57.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\Admin.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\Admin.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\Admin.cs",
+              "RelativeToolTip": "Repository\\Service\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:12:22.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\Wishlist.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Service\\Wishlist.cs",
+              "RelativeToolTip": "Repository\\Service\\Wishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:39:31.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\AddressModel\\AddressModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\AddressModel\\AddressModel.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\AddressModel\\AddressModel.cs",
+              "RelativeToolTip": "ModelLayer\\AddressModel\\AddressModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:20:57.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FeedBackEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\FeedBackEntity.cs",
+              "RelativeDocumentMoniker": "Repository\\Entity\\FeedBackEntity.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\FeedBackEntity.cs",
+              "RelativeToolTip": "Repository\\Entity\\FeedBackEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:45:21.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateFeed.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\FeedBackModel\\UpdateFeed.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\FeedBackModel\\UpdateFeed.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\FeedBackModel\\UpdateFeed.cs",
+              "RelativeToolTip": "ModelLayer\\FeedBackModel\\UpdateFeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:04:10.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FeedBackModelcs.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\FeedBackModel\\FeedBackModelcs.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\FeedBackModel\\FeedBackModelcs.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\FeedBackModel\\FeedBackModelcs.cs",
+              "RelativeToolTip": "ModelLayer\\FeedBackModel\\FeedBackModelcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:46:43.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FeedBackController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\FeedBackController.cs",
+              "RelativeDocumentMoniker": "Bookstore\\Controllers\\FeedBackController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\Controllers\\FeedBackController.cs",
+              "RelativeToolTip": "Bookstore\\Controllers\\FeedBackController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:10:33.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\appsettings.json",
+              "RelativeDocumentMoniker": "Bookstore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bookstore\\appsettings.json",
+              "RelativeToolTip": "Bookstore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T09:29:14.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IWishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IWishlist.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IWishlist.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Interface\\IWishlist.cs",
+              "RelativeToolTip": "Repository\\Interface\\IWishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:38:53.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Repository\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "Repository\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:49:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\UserModel\\UserModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\UserModel\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\UserModel\\UserModel.cs",
+              "RelativeToolTip": "ModelLayer\\UserModel\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:01:09.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\UserBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\UserBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\UserBL.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\UserBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:30:11.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IBookBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IBookBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\IBookBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IBookBL.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\IBookBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:46:35.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\OrderBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\OrderBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\OrderBL.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\OrderBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:21:06.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IWishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IWishlist.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\IWishlist.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IWishlist.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\IWishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:27:11.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\Wishlist.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\Wishlist.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\Wishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:28:06.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrdersModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Orders\\OrdersModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Orders\\OrdersModel.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Orders\\OrdersModel.cs",
+              "RelativeToolTip": "ModelLayer\\Orders\\OrdersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:20:13.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IFeedBackBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IFeedBackBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\IFeedBackBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IFeedBackBL.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\IFeedBackBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:04:50.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Token\\TokenModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Token\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Token\\TokenModel.cs",
+              "RelativeToolTip": "ModelLayer\\Token\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:50:41.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Context\\BookContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Context\\BookContext.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Context\\BookContext.cs",
+              "RelativeToolTip": "Repository\\Context\\BookContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:36:00.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ModelLayer",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T16:44:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FeedBackBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\FeedBackBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\USERbl\\FeedBackBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\USERbl\\FeedBackBL.cs",
+              "RelativeToolTip": "Bussiness\\USERbl\\FeedBackBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:05:15.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\Class1.cs",
+              "RelativeToolTip": "ModelLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:17.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\ForgetPassword\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\ForgetPassword\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\ForgetPassword\\ForgotPassword.cs",
+              "RelativeToolTip": "ModelLayer\\ForgetPassword\\ForgotPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:12:26.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUserBL.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IUserBL.cs",
+              "RelativeDocumentMoniker": "Bussiness\\IuserBL\\IUserBL.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\IuserBL\\IUserBL.cs",
+              "RelativeToolTip": "Bussiness\\IuserBL\\IUserBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:29:45.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\LoginModel\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\LoginModel\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\ModelLayer\\LoginModel\\LoginModel.cs",
+              "RelativeToolTip": "ModelLayer\\LoginModel\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:04:03.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\Class1.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Class1.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Bussiness\\Class1.cs",
+              "RelativeToolTip": "Bussiness\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:43:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Bookstore\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:17:58.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

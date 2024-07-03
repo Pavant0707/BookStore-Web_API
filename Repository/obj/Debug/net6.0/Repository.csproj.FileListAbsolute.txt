@@ -1,0 +1,15 @@
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\Bookstore\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\Prave\source\repos\Bookstore\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\Prave\source\repos\Bookstore\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\Prave\source\repos\Bookstore\Repository\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Prave\source\repos\Bookstore\Repository\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\Prave\source\repos\Bookstore\Repository\obj\Debug\net6.0\ref\Repository.dll
